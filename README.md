@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ian Kiprotich Kosgei</h1>
 <h3 align="center">A Vehement Backend developer </h3>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg"><img width="500" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" style="max-width: 100%;"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ian-dubaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ian-dubaideveloper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-dubaideveloper" alt="ian-dubaideveloper" /></a> </p>
