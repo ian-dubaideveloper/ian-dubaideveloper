@@ -3,7 +3,7 @@ name: 🐍 Generate Snake Contribution GIF
 on:
   workflow_dispatch: # Manual dispatch
   schedule:
-    - cron: '30 23 * * *' # Runs at 23:30 every day.
+    - cron: '0 0 * * *' # Runs at 23:30 every day.
 jobs:
   snake:
     runs-on: ubuntu-latest
@@ -11,7 +11,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v2
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@main
         with:
           github_user_name: ${{ github.ian-dubaideveloper }}
           gif_out_path: assets/github-snake.gif
@@ -25,7 +25,7 @@ jobs:
           git commit -m ":snake: Updates Snake Contribution Animation"
       # Push the changes
       - name: Push
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
           branch: ${{ github.ref }}
