@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-dubaideveloper" alt="ian-dubaideveloper" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [iandubaideveloper@me](iandubaideveloper@me)
+- 👨‍💻 Portfolio: [iandubaideveloper@me](iandubaideveloper@me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
