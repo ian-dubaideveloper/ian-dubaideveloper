@@ -7,7 +7,7 @@
 
 <img height="200" width="400" src="https://64.media.tumblr.com/9aec816b1c75f428315e2c54bb5ff4e2/tumblr_nvw4o9ngNe1ugza5oo1_640.gif" alt="Computer man">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ian-dubaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ian-dubaideveloper" /> </p>
+<p align="left"> <img height="200" width="400" src="https://komarev.com/ghpvc/?username=ian-dubaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ian-dubaideveloper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-dubaideveloper" alt="ian-dubaideveloper" /></a> </p>
 
