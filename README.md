@@ -9,7 +9,7 @@
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=ian-dubaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ian-dubaideveloper" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="200" width="400"src="https://github-profile-trophy.vercel.app/?username=ian-dubaideveloper" alt="ian-dubaideveloper" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-dubaideveloper" alt="ian-dubaideveloper" /></a> </p>
 
 👨‍💻 Portfolio: [iandubaideveloper@me](iandubaideveloper@me)
 
