@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ian Kiprotich Kosgei👨‍💻</h1>
 
-<h3 align="center">A Passionante Backend developer </h3>
+<h3 align="center">A Passionante Backend developer from Kenya </h3>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg"><img width="600" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" style="max-width: 100%;"></a>
 
