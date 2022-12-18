@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ian Kiprotich Kosgei👨‍💻</h1>
-<h3 align="center">A Passionante Backend developer from Kenya </h3>
+<h3 align="center">A Passionate Backend developer from Kenya </h3>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg"><img width="600" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" style="max-width: 100%;"></a>
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=ian-dubaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ian-dubaideveloper"  align="right">  </p>
