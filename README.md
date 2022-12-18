@@ -4,7 +4,7 @@
 
 <img height="200" width="400" src="https://64.media.tumblr.com/9aec816b1c75f428315e2c54bb5ff4e2/tumblr_nvw4o9ngNe1ugza5oo1_640.gif" alt="Computer man"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg"><img width="600" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg"><img width="800" src="https://raw.githubusercontent.com/rawandahmad698/rawandahmad698/master/assets/github-snake.svg" style="max-width: 100%;"></a>
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=ian-dubaideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ian-dubaideveloper"  align="right">  </p>
 
