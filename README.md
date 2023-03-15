@@ -1,5 +1,5 @@
 
-<h1 align="center"> Ian Kiprotich Kosgei🤓 </h1>
+<h1 align="center"> Ian Kiprotich Kosgei 🤓 </h1>
 <h3 align="center">  || Python / Javascript 🧩 || Cyber Security 💻 || A.I Enthusiast🎭 || Backend Developer {node.js / django} 🤖 ||  </h3>
 
 
