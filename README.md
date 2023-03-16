@@ -1,6 +1,6 @@
 
 <h1 align="center"> Ian Kiprotich Kosgei🤓 </h1>
-<h3 align="center">  ||  || Cyber Security💻 || A.I Enthusiast🎭 || Backend Developer {node.js / django}🤖 ||  </h3>
+<h3 align="center">  ||  Python / Javascript🧩 || Cyber Security💻 || A.I Enthusiast🎭 || Backend Developer {node.js / django}🤖 ||  </h3>
 
 
 <img height="200" width="400" src="https://64.media.tumblr.com/9aec816b1c75f428315e2c54bb5ff4e2/tumblr_nvw4o9ngNe1ugza5oo1_640.gif" alt="Computer man"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) 
